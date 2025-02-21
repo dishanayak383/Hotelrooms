@@ -1,0 +1,20 @@
+.hotel-container {
+    font-family: 'Poppins', sans-serif;
+    padding: 15px;
+    max-width: 300px;
+    width: 100%;
+    border-radius: 30px;
+    margin: auto;
+    background-color: #ececec;
+  }
+
+  .head{
+    display: flex;
+    justify-content: space-between;
+  }
+  
+ .h4 {
+    font-size: px;
+    font-weight: bold;
+    color: #222;
+  }
