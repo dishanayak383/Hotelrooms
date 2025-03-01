@@ -75,6 +75,7 @@
     max-height: 70px;
     border: 1px solid black;
     font-size: 30px;
+    text-align: center;
     
 }
 .t2 {
@@ -105,6 +106,8 @@
     max-width: 40px;
     max-height: 70px;
     border: 1px solid black;
+    text-align: center;
+   
 }
 .h3 {
     width: 100%;
@@ -132,12 +135,27 @@
     border: 1px solid black;
     
 }
+.d12 {
+    width: 100%;
+    height: 100vh;
+    max-width: 200px;
+    max-height: 40px;
+    border: 1px solid black;
+}
+.d13 {
+    width: 100%;
+    height: 100vh;
+    max-width: 200px;
+    max-height: 26px;
+    border: 1px solid black;
+}
 .t6 {
     width: 100%;
     height: 100vh;
     max-width: 40px;
     max-height: 70px;
     border: 1px solid black;
+    text-align: center;
 }
 .h4 {
     width: 100%;
@@ -163,12 +181,27 @@
     max-height: 70px;
     border: 1px solid black;
 }
+.d14 {
+    width: 100%;
+    height: 100vh;
+    max-width: 200px;
+    max-height: 40px;
+    border: 1px solid black;
+}
+.d15 {
+    width: 100%;
+    height: 100vh;
+    max-width: 200px;
+    max-height: 26px;
+    border: 1px solid black;
+}
 .t9 {
     width: 100%;
     height: 100vh;
     max-width: 40px;
     max-height: 70px;
     border: 1px solid black;
+    text-align: center;
 }
 .h5 {
     width: 100%;
@@ -194,12 +227,27 @@
     max-height: 70px;
     border: 1px solid black;
 }
+.d16 {
+    width: 100%;
+    height: 100vh;
+    max-width: 200px;
+    max-height: 40px;
+    border: 1px solid black;
+}
+.d17 {
+    width: 100%;
+    height: 100vh;
+    max-width: 200px;
+    max-height: 26px;
+    border: 1px solid black;
+}
 .t12 {
     width: 100%;
     height: 100vh;
     max-width: 40px;
     max-height: 70px;
     border: 1px solid black;
+    text-align: center;
 }
 .row {
     width: 100%;

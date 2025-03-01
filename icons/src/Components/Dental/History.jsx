@@ -4,7 +4,7 @@ import { HiDotsHorizontal } from "react-icons/hi";
 import { MdDone } from "react-icons/md";
 import { FaRegFileArchive } from "react-icons/fa";
 import { FaRegFilePdf } from "react-icons/fa";
-
+import { IoCloudDownloadOutline } from "react-icons/io5";
 
 export const History=()=>{
     return(
@@ -183,7 +183,9 @@ export const History=()=>{
                                     <a>2.3mb</a>
                                 </div>
                             </div>
-                            <div className="t3"></div>
+                            <div className="t3">
+                                <p><IoCloudDownloadOutline /></p>
+                            </div>
                         </div>
                         <div className="h3">
                             <div className="t4">
@@ -194,30 +196,44 @@ export const History=()=>{
                                     <p>Provision of information.pdf</p>
                                 </div>
                                 <div className="d13">
-                                    <p>1.2mb</p>
+                                    <a>1.2mb</a>
                                 </div>
                             </div>
-                            <div className="t6"></div>
+                            <div className="t6">
+                                <p><IoCloudDownloadOutline /></p>
+                            </div>
                         </div>
                         <div className="h4">
                             <div className="t7">
                                 <p><FaRegFileArchive /></p>
                             </div>
                             <div className="t8">
-                                <div className="d14"></div>
-                                <div className="d15"></div>
+                                <div className="d14">
+                                    <p>Agreement_Medication.zip</p>
+                                </div>
+                                <div className="d15">
+                                    <a>2.3mb</a>
+                                </div>
                             </div>
-                            <div className="t9"></div>
+                            <div className="t9">
+                                <p><IoCloudDownloadOutline /></p>
+                            </div>
                         </div>
                         <div className="h5">
                             <div className="t10">
                                 <p><FaRegFilePdf /></p>
                             </div>
                             <div className="t11">
-                                <div className="d16"></div>
-                                <div className="d17"></div>
+                                <div className="d16">
+                                    <p>Provision of information.pdf</p>
+                                </div>
+                                <div className="d17">
+                                    <a>1.2mb</a>
+                                </div>
                             </div>
-                            <div className="t12"></div>
+                            <div className="t12">
+                                <p><IoCloudDownloadOutline /></p>
+                            </div>
                         </div>
                     </div>
                 </div>
