@@ -32,6 +32,175 @@
     border-radius: 5px;
     padding: 5px;
 }
+.row2 {
+    width: 100%;
+    height: 100vh;
+    max-width: 300px;
+    max-height: 30px;
+    padding: 10px;
+}
+.h1 {
+    width:100%;
+    height:100vh;
+    max-width: 115px;
+    max-height: 54px;
+    margin-left: 260px;
+    margin-top: -15px;
+
+}
+.row3 {
+    width: 100%;
+    height: 100vh;
+    max-width: 300px;
+    max-height: 330px;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+}
+.h2 {
+    width: 100%;
+    height: 100vh;
+    max-width: 290px;
+    max-height: 70px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 5px;
+    display: flex;
+}
+.t1 {
+    width: 100%;
+    height: 100vh;
+    max-width: 50px;
+    max-height: 70px;
+    border: 1px solid black;
+    font-size: 30px;
+    
+}
+.t2 {
+    width: 100%;
+    height: 100vh;
+    max-width: 200px;
+    max-height: 70px;
+    border: 1px solid black;
+   
+}
+.d10 {
+    width: 100%;
+    height: 100vh;
+    max-width: 200px;
+    max-height: 40px;
+    border: 1px solid black;
+}
+.d11 {
+    width: 100%;
+    height: 100vh;
+    max-width: 200px;
+    max-height: 26px;
+    border: 1px solid black;
+}
+.t3 {
+    width: 100%;
+    height: 100vh;
+    max-width: 40px;
+    max-height: 70px;
+    border: 1px solid black;
+}
+.h3 {
+    width: 100%;
+    height: 100vh;
+    max-width: 290px;
+    max-height: 70px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 5px;
+    display: flex;
+}
+.t4 {
+    width: 100%;
+    height: 100vh;
+    max-width: 50px;
+    max-height: 70px;
+    border: 1px solid black;
+
+}
+.t5 {
+    width: 100%;
+    height: 100vh;
+    max-width: 200px;
+    max-height: 70px;
+    border: 1px solid black;
+    
+}
+.t6 {
+    width: 100%;
+    height: 100vh;
+    max-width: 40px;
+    max-height: 70px;
+    border: 1px solid black;
+}
+.h4 {
+    width: 100%;
+    height: 100vh;
+    max-width: 290px;
+    max-height: 70px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 5px;
+    display: flex;
+}
+.t7 {
+    width: 100%;
+    height: 100vh;
+    max-width: 50px;
+    max-height: 70px;
+    border: 1px solid black;
+}
+.t8 {
+    width: 100%;
+    height: 100vh;
+    max-width: 200px;
+    max-height: 70px;
+    border: 1px solid black;
+}
+.t9 {
+    width: 100%;
+    height: 100vh;
+    max-width: 40px;
+    max-height: 70px;
+    border: 1px solid black;
+}
+.h5 {
+    width: 100%;
+    height: 100vh;
+    max-width: 290px;
+    max-height: 70px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 5px;
+    display: flex;
+}
+.t10 {
+    width: 100%;
+    height: 100vh;
+    max-width: 50px;
+    max-height: 70px;
+    border: 1px solid black;
+}
+.t11 {
+    width: 100%;
+    height: 100vh;
+    max-width: 200px;
+    max-height: 70px;
+    border: 1px solid black;
+}
+.t12 {
+    width: 100%;
+    height: 100vh;
+    max-width: 40px;
+    max-height: 70px;
+    border: 1px solid black;
+}
 .row {
     width: 100%;
     height: 100vh;
@@ -62,7 +231,7 @@
     height:100vh;
     max-width: 690px;
     max-height: 54px;
-    border: 1px solid black;
+   
     display: flex;
 }
 .a3 {
@@ -70,7 +239,7 @@
     height:100vh;
     max-width: 690px;
     max-height: 54px;
-    border: 1px solid black;
+   
     display: flex;
 }
 .a4 {
@@ -78,7 +247,7 @@
     height:100vh;
     max-width: 690px;
     max-height: 54px;
-    border: 1px solid black;
+  
     display: flex;
 }
 .a5 {
@@ -86,7 +255,7 @@
     height:100vh;
     max-width: 690px;
     max-height: 54px;
-    border: 1px solid black;
+   
     display: flex;
 }
 .a6 {
@@ -94,48 +263,48 @@
     height:100vh;
     max-width: 690px;
     max-height: 55px;
-    border: 1px solid black;
+  
     display: flex;
 }
 .b1 {
     width:100%;
     height:100vh;
-    max-width: 115px;
+    max-width: 80px;
     max-height: 54px;
-    border: 1px solid black;
+    padding: 1px;
     text-align: center;
+    padding-left: 5px;
     
 }
 .b2 {
     width:100%;
     height:100vh;
-    max-width: 138px;
+    max-width: 150px;
     max-height: 54px;
-    border: 1px solid black;
     text-align: center;
 }
 .b3 {
     width:100%;
     height:100vh;
-    max-width: 138px;
+    max-width: 70px;
     max-height: 54px;
-    border: 1px solid black;
+    
     text-align: center;
 }
 .b4 {
     width:100%;
     height:100vh;
-    max-width: 138px;
+    max-width: 160px;
     max-height: 54px;
-    border: 1px solid black;
+   
     text-align: center;
 }
 .b5 {
     width:100%;
     height:100vh;
-    max-width: 138px;
+    max-width: 160px;
     max-height: 54px;
-    border: 1px solid black;
+ 
     text-align: center;
 }
 .c1 {
@@ -143,7 +312,7 @@
     height:100vh;
     max-width: 115px;
     max-height: 54px;
-    border: 1px solid black;
+ ;
     text-align: center;
 }
 .c2 {
@@ -151,12 +320,12 @@
     height:100vh;
     max-width: 115px;
     max-height: 54px;
-    border: 1px solid black;
+    
 }
 .c9 {
     width:100%;
     height:100vh;
-    margin-top: -65px;
+    margin-top: -45px;
     text-align: center;
     color: black;
     margin-left: 5px;
@@ -166,7 +335,7 @@
     height:100vh;
     max-width: 115px;
     max-height: 54px;
-    border: 1px solid black;
+ 
     text-align: center;
 }
 .c4 {
@@ -174,7 +343,7 @@
     height:100vh;
     max-width: 115px;
     max-height: 54px;
-    border: 1px solid black;
+
     color: green;
 }
 .c8 {
@@ -189,7 +358,7 @@
     height:100vh;
     max-width: 115px;
     max-height: 54px;
-    border: 1px solid black;
+   
     
 }
 .c7 {
@@ -197,7 +366,7 @@
     height: 100vh;
     max-width: 70px;
     max-height: 25px;
-    border: 1px solid black;
+   
     margin-left: 15px;
     margin-top: 10px;
     text-align: center;
@@ -209,7 +378,7 @@
     height:100vh;
     max-width: 115px;
     max-height: 54px;
-    border: 1px solid black;
+   
     text-align: center;
    
 }
@@ -218,7 +387,7 @@
     height:100vh;
     max-width: 115px;
     max-height: 54px;
-    border: 1px solid black;
+   
     text-align: center;
 }
 .d2 {
@@ -226,7 +395,7 @@
     height:100vh;
     max-width: 115px;
     max-height: 54px;
-    border: 1px solid black;
+ 
    
 }
 .d9 {
@@ -242,7 +411,7 @@
     height:100vh;
     max-width: 115px;
     max-height: 54px;
-    border: 1px solid black;
+
     text-align: center;
 }
 .d4 {
@@ -250,7 +419,7 @@
     height:100vh;
     max-width: 115px;
     max-height: 54px;
-    border: 1px solid black;
+;
     color: green;
 }
 .d8 {
@@ -266,14 +435,14 @@
     height:100vh;
     max-width: 115px;
     max-height: 54px;
-    border: 1px solid black;
+   
 }
 .d7 {
     width: 100%;
     height: 100vh;
     max-width: 50px;
     max-height: 20px;
-    border: 1px solid black;
+    
     margin-left: 15px;
     margin-top: 10px;
     color: rgb(5, 85, 5);
@@ -285,7 +454,7 @@
     height:100vh;
     max-width: 115px;
     max-height: 54px;
-    border: 1px solid black;
+   
     text-align: center;
 }
 .e1 {
@@ -293,7 +462,7 @@
     height:100vh;
     max-width: 115px;
     max-height: 54px;
-    border: 1px solid black;
+
     text-align: center;
 }
 .e2 {
@@ -301,14 +470,22 @@
     height:100vh;
     max-width: 115px;
     max-height: 54px;
-    border: 1px solid black;
+ 
+}
+.e9 {
+    width:100%;
+    height:100vh;
+    margin-top: -50px;
+    text-align: center;
+    color: black;
+    margin-left: 10px;
 }
 .e3 {
     width:100%;
     height:100vh;
     max-width: 115px;
     max-height: 54px;
-    border: 1px solid black;
+  
     text-align: center;
 }
 .e4 {
@@ -316,7 +493,7 @@
     height:100vh;
     max-width: 115px;
     max-height: 54px;
-    border: 1px solid black;
+  
     color: green;
 }
 .e8 {
@@ -331,14 +508,14 @@
     height:100vh;
     max-width: 115px;
     max-height: 54px;
-    border: 1px solid black;
+    
 }
 .e7 {
     width: 100%;
     height: 100vh;
     max-width: 50px;
     max-height: 20px;
-    border: 1px solid black;
+    
     margin-left: 15px;
     margin-top: 10px;
     color: rgb(5, 85, 5);
@@ -350,7 +527,6 @@
     height:100vh;
     max-width: 115px;
     max-height: 54px;
-    border: 1px solid black;
     text-align: center;
 }
 .f1 {
@@ -358,7 +534,6 @@
     height:100vh;
     max-width: 115px;
     max-height: 54px;
-    border: 1px solid black;
     text-align: center;
 }
 .f2 {
@@ -366,14 +541,21 @@
     height:100vh;
     max-width: 115px;
     max-height: 54px;
-    border: 1px solid black;
+    
+}
+.f9 {
+    width:100%;
+    height:100vh;
+    margin-top: -60px;
+    text-align: center;
+    color: black;
+    margin-left: 10px;
 }
 .f3 {
     width:100%;
     height:100vh;
     max-width: 115px;
     max-height: 54px;
-    border: 1px solid black;
     text-align: center;
 }
 .f4 {
@@ -381,7 +563,6 @@
     height:100vh;
     max-width: 115px;
     max-height: 54px;
-    border: 1px solid black;
     color: green;
 }
 .f8 {
@@ -396,14 +577,13 @@
     height:100vh;
     max-width: 115px;
     max-height: 54px;
-    border: 1px solid black;
+    
 }
 .f7 {
     width: 100%;
     height: 100vh;
     max-width: 50px;
     max-height: 20px;
-    border: 1px solid black;
     margin-left: 15px;
     margin-top: 10px;
     color: rgb(5, 85, 5);
@@ -415,7 +595,6 @@
     height:100vh;
     max-width: 115px;
     max-height: 54px;
-    border: 1px solid black;
     text-align: center;    
 }
 .g1 {
@@ -423,7 +602,6 @@
     height:100vh;
     max-width: 115px;
     max-height: 54px;
-    border: 1px solid black;
     text-align: center;
 }
 .g2 {
@@ -431,14 +609,21 @@
     height:100vh;
     max-width: 115px;
     max-height: 54px;
-    border: 1px solid black;
+   
+}
+.g9 {
+    width:100%;
+    height:100vh;
+    margin-top: -45px;
+    text-align: center;
+    color: black;
+    margin-left: 10px;
 }
 .g3 {
     width:100%;
     height:100vh;
     max-width: 115px;
     max-height: 54px;
-    border: 1px solid black;
     text-align: center;
 }
 .g4 {
@@ -446,7 +631,6 @@
     height:100vh;
     max-width: 115px;
     max-height: 54px;
-    border: 1px solid black;
     color: green;
 }
 .g8 {
@@ -461,14 +645,13 @@
     height:100vh;
     max-width: 115px;
     max-height: 54px;
-    border: 1px solid black;
+   
 }
 .g7 {
     width: 100%;
     height: 100vh;
     max-width: 50px;
     max-height: 20px;
-    border: 1px solid black;
     margin-left: 15px;
     margin-top: 10px;
     color: rgb(5, 85, 5);
@@ -480,6 +663,5 @@
     height:100vh;
     max-width: 115px;
     max-height: 54px;
-    border: 1px solid black;
     text-align: center;
 }

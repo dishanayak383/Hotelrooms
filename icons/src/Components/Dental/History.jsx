@@ -2,6 +2,9 @@ import React from "react";
 import './History.css'
 import { HiDotsHorizontal } from "react-icons/hi";
 import { MdDone } from "react-icons/md";
+import { FaRegFileArchive } from "react-icons/fa";
+import { FaRegFilePdf } from "react-icons/fa";
+
 
 export const History=()=>{
     return(
@@ -34,7 +37,7 @@ export const History=()=>{
                                 <p>#12324</p>
                             </div>
                             <div className="c2">
-                                <img src="https://static.wixstatic.com/media/0f903b_5ea69a65d6e148c8828ddeb52c12d29b~mv2.png/v1/fill/w_290,h_226,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/dental-implant-treatment-page-icon.png" width={"40px"} height={"60px"}/> 
+                                <img src="https://cdn-icons-png.freepik.com/256/9738/9738542.png?semt=ais_hybrid" width={"30px"} height={"35px"}/>
                                 <div className="c9">
                                     <p>Implant</p>
                                 </div>
@@ -86,8 +89,12 @@ export const History=()=>{
                                 <p>#57686</p>
                             </div>
                             <div className="e2">
-                                <img src="https://media.istockphoto.com/id/1299086428/vector/digital-dentistry-rgb-color-icon.jpg?s=612x612&w=0&k=20&c=ULyDpQAESJoThncL2XtOQgHmSBnfuJnjOoahQC6ct9E="/>
+                                <img src="https://media.istockphoto.com/id/1299086428/vector/digital-dentistry-rgb-color-icon.jpg?s=612x612&w=0&k=20&c=ULyDpQAESJoThncL2XtOQgHmSBnfuJnjOoahQC6ct9E=" width={"30px"} height={"40px"}/>
+                                <div className="e9">
+                                    <p>Dentures</p>
+                                </div>
                             </div>
+
                             <div className="e3">
                                 <p>2 Mar 2023</p>
                             </div>
@@ -108,7 +115,12 @@ export const History=()=>{
                             <div className="f1">
                                 <p>#68767</p>
                             </div>
-                            <div className="f2"></div>
+                            <div className="f2">
+                                <img src="https://png.pngtree.com/png-vector/20220628/ourmid/pngtree-dental-logo-template-vector-illustration-icon-design-png-image_5289867.png" width={"30px"} height={"60px"}/>
+                                <div className="f9">
+                                    <p>Whitening</p>
+                                </div>
+                            </div>
                             <div className="f3">
                                 <p>16 Feb 2023</p>
                             </div>
@@ -129,12 +141,17 @@ export const History=()=>{
                             <div className="g1">
                                 <p>#69696</p>
                             </div>
-                            <div className="g2"></div>
+                            <div className="g2">
+                                <img src="https://cdn-icons-png.freepik.com/256/9738/9738542.png?semt=ais_hybrid" width={"30px"} height={"35px"}/>
+                                <div className="g9">
+                                    <p>Implant</p>
+                                </div>
+                            </div>
                             <div className="g3">
                                 <p>9 Jan 2023</p>
                             </div>
                             <div className="g4">
-                                <p><MdDone /><div className="e8">Well done</div></p>
+                                <p><MdDone /><div className="g8">Well done</div></p>
                             </div>
                             <div className="g5">
                                 <div className="g7">
@@ -149,7 +166,61 @@ export const History=()=>{
                         </div>
                     </div>
                 </div>
-                <div className="column1"></div>
+                <div className="column1">
+                    <div className="row2">
+                        <a>Agreement of document <div className="h1"><HiDotsHorizontal /></div></a>
+                    </div>
+                    <div className="row3">
+                        <div className="h2">
+                            <div className="t1">
+                                <p><FaRegFileArchive /></p>
+                            </div>
+                            <div className="t2">
+                                <div className="d10">
+                                    <p>Agreement_Medication.zip</p>
+                                </div>
+                                <div className="d11">
+                                    <a>2.3mb</a>
+                                </div>
+                            </div>
+                            <div className="t3"></div>
+                        </div>
+                        <div className="h3">
+                            <div className="t4">
+                                <p><FaRegFilePdf /></p>
+                            </div>
+                            <div className="t5">
+                                <div className="d12">
+                                    <p>Provision of information.pdf</p>
+                                </div>
+                                <div className="d13">
+                                    <p>1.2mb</p>
+                                </div>
+                            </div>
+                            <div className="t6"></div>
+                        </div>
+                        <div className="h4">
+                            <div className="t7">
+                                <p><FaRegFileArchive /></p>
+                            </div>
+                            <div className="t8">
+                                <div className="d14"></div>
+                                <div className="d15"></div>
+                            </div>
+                            <div className="t9"></div>
+                        </div>
+                        <div className="h5">
+                            <div className="t10">
+                                <p><FaRegFilePdf /></p>
+                            </div>
+                            <div className="t11">
+                                <div className="d16"></div>
+                                <div className="d17"></div>
+                            </div>
+                            <div className="t12"></div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     );
