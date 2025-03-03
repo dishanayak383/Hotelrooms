@@ -221,7 +221,7 @@ export const History=()=>{
                         </div>
                         <div className="h5">
                             <div className="t10">
-                                <p><FaRegFilePdf /></p>
+                                <lable><FaRegFilePdf /></lable>
                             </div>
                             <div className="t11">
                                 <div className="d16">
